@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: d33bc18e-a222-14f6-db29-92611adebd7e
 ---
@@ -92,10 +95,10 @@ What is the relationship between one's meta view on the personal responsibility/
 {{< thopen >}}
  
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 WHy Act?
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 How to act?
 {{< thclose >}}
 
