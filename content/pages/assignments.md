@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides details on the term project for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e28ebafa-4ec5-70fa-4882-eccd5ff28636
 ---
