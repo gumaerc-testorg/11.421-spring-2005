@@ -170,7 +170,7 @@ Deinstitutionalization: Ex-Offenders in the Community
 {{< tdclose >}}{{< tdopen >}}
 Placed-Based Services in Public Housing: The Jobs Plus Program
 {{< tdclose >}}{{< tdopen >}}
-Riccio, James A., and Linda Y. Kato. *Building New Partnerships for Employment: Collaboration Among Agencies and Public Housing Residents In the Jobs-Plus Demonstration*. Manpower Demonstration Research Corporation, May 2001. ([PDF](https://www.mdrc.org/sites/default/files/Building_New_Partnerships_for_Employment.pdf))
+Riccio, James A., and Linda Y. Kato. *Building New Partnerships for Employment: Collaboration Among Agencies and Public Housing Residents In the Jobs-Plus Demonstration*. Manpower Demonstration Research Corporation, May 2001. ({{% resource_link "5051c07f-a7d6-4f12-9f9b-00cb9a8ecabc" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
